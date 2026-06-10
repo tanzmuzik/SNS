@@ -16,15 +16,25 @@ vertical 9:16 format, photorealistic
 ## Scene ②A｜混雑中の画面（6〜10秒）
 
 ```
-Close-up of smartphone screen showing
-Japanese phone support UI with a "currently very busy" 
-hold message displayed (ただいま大変混み合っています),
+Close-up of smartphone held in hand or on table,
+screen glowing softly with a plain bright UI,
+no readable text on screen (blank generic interface),
 cold blue-grey lighting, mostly static,
 suffocating and frustrating atmosphere,
 vertical 9:16 format, photorealistic
 ```
 
-> ※画面内の文言は実在他社の表記と一致しない汎用表現にする
+> ※v3変更：画面内の文字はAI生成しない（文字はAI生成の最弱点のため）。
+> 画面は無地の発光状態で生成し、文言UIはCanvaで作成してPremiereで合成する。
+
+### Canva合成用 画面UI仕様
+
+| 項目 | 内容 |
+|---|---|
+| 文言 | 「ただいま大変混み合っています」＋ローディングインジケーター |
+| デザイン | 汎用的なサポート画面風（実在他社のUIと一致しないこと） |
+| サイズ | スマホ画面比率（生成カットの画面領域に合わせてコーナーピン変形） |
+| 書き出し | 背景透過PNG。ローディング点滅はPremiere側で不透明度キーフレーム |
 
 ---
 
