@@ -17,11 +17,13 @@ natural light softly changing.
 ## Scene ②A｜混雑中の画面（6〜10秒）
 
 ```
-The phone screen shows the busy hold message.
-The screen's glow flickers very subtly,
-as if the display is alive but nothing changes.
-A loading indicator pulses slowly.
-Very slow, almost imperceptible push-in toward the screen.
+The smartphone screen displays a Japanese customer support page.
+All on-screen text is written in Japanese characters and must remain
+in Japanese exactly as shown in the input image — do not translate,
+replace, redraw, or alter any text. No English words appear anywhere
+on the screen. The screen content itself stays completely unchanged.
+Only the screen's glow flickers very subtly, and a loading indicator
+pulses slowly. Very slow, almost imperceptible push-in toward the screen.
 The near-stillness creates tension and frustration.
 Cold blue-grey lighting throughout.
 ```
@@ -40,6 +42,11 @@ Cold blue-grey lighting throughout.
 ```
 Fingers type short repetitive messages
 on the smartphone keyboard.
+The messaging app on the screen is a Japanese chat app:
+all messages, buttons, and the keyboard are in Japanese characters
+and must remain in Japanese exactly as in the input image —
+never translate or convert any on-screen text into English.
+No English words appear on the screen.
 Mechanical, automatic motion —
 no hesitation, no emotion.
 Camera stays fixed, close on the hands.
@@ -122,6 +129,8 @@ easy to read, nothing distracting.
 
 | ポイント | 内容 |
 |---|---|
+| **画面内テキストの日本語固定** | 「All on-screen text … must remain in Japanese exactly as in the input image」を画面が映るシーンに必ず入れる。動きを小さくするほど文字の描き直しが起きにくい |
+| 文字化け・英語化が直らない場合 | 最終手段：画面を無地発光で動画化し、日本語文言はCanva製PNGをPremiereでコーナーピン合成（②Aのv3方式。②Bにも適用可） |
 | 動きは控えめに | 情報伝達が目的なので過度なモーションは避ける |
 | ②Aはマイクロモーションのみ | 光の明滅・ローディングの点滅程度。静止感が演出 |
 | ②→③の転換 | 色温度・明るさが最も大きく変わる。つなぎは短めのカットで |
