@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(pip install *)",
+      "Read(./outputs/**)",
+      "Read(./briefs/**)",
+      "Read(./agents/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

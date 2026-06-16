@@ -39,7 +39,7 @@ briefs/[ファイル名].md を読み込んで、SNS CM制作パイプライン�
 
 全成果物は以下のパスに保存してください：
 ```
-outputs/[YYYY-MM]-[案件名]/
+outputs/[YYYY-MM-DD]-[案件名]/
 ├── 01_brief-refined.md      # 整理済みブリーフ
 ├── 02_concepts.md           # コンセプト3案
 ├── 03_script.md             # 台本（3バージョン）
